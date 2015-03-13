@@ -1,0 +1,25 @@
+{
+  "name": "shell-reflector",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "reflector": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Otto Mao <ottomao@gmail.com> (http://ottomao.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "colorful": "^2.1.0",
+    "express": "^4.12.0",
+    "juicer": "^0.6.8-stable",
+    "qrcode-terminal": "^0.9.5",
+    "ws": "^0.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ottomao/reflector"
+  }
+}
