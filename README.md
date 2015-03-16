@@ -2,7 +2,7 @@
 
 Your terminal, Reflected.
 
-把命令行输出到本地http服务器上，用你的ipad/手机屏幕做监控屏，酷酷哒。
+把命令行输出同步转发到本地http服务器上，用你的ipad/手机屏幕做监控屏，酷酷哒。
 
 
 # Intro
@@ -16,7 +16,7 @@ Your terminal, Reflected.
 * ``sudo npm install -g shell-reflector``
 
 
-# How to use
+# Usage
 
 * pipe your output to reflector , e.g. ``my_long_runing_command | reflector``
 * view web page according to the url in terminal
